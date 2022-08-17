@@ -1,0 +1,46 @@
+  {
+    "sahip" : sahipid
+    "prefix" : "prefix",
+    "footer" : "Rixénd 💜",
+
+    "tag" : "Tagınız",
+    "sembol" : "İsim Yaşın Arasına Gelicek Sembol",
+    
+    "bansorumlusu" : Ban Hammer Rol İd
+    "banlog" : "Ban Log Kanal İd",
+    
+    "jailsorumlusu" : "Jail Hammer Rol İd",
+    "cezalı" : "Cezalı Rol İd",
+    "jaillog" : "Jail Log Kanal İd",
+   
+    "mutesorumlusu" : "Mute Hammer Rol İd",
+    "muted" : "Mute Rol İd",
+    "mutelog" : "Mute Log Kanal İd",
+    
+    "vmutesorumlusu" : "Vmute Hammer Rol İd",
+    "vmuted" : "Vmute Rol İd",
+    "vmutelog" : "Vmute Log Kanal İd",
+
+    "yetkiliRol" : ["Register Rol İd"],
+    
+    "vipRol" : "Vip Rol İd",
+    
+    "boosterRol" : "Booster Rol İd",
+    
+    "kayıtsızRol" : "Kayıtsız Rol İd",
+    
+    "erkekRol1" : "Erkek Rol İd",
+    "erkekRol2" : "Erkek2 Rol İd",
+    "erkekRol3" : "Erkek3 Rol İd",
+    
+    "kadınRol1" : "Kadın Rol İd",
+    "kadınRol2" : "Kadın2 Rol İd",
+    "kadınRol3" : "Kadın3 Rol İd",
+
+    "hosgeldinKanal" : "Hoşgeldin Mesajını Atıcak Kanal İd",
+    "sohbetKanal" : "Sohbet Kanal İd", 
+    "botSesKanal" : "Botun Gireceği Ses Kanal İd",
+  
+    "yes" : "Tik Emojinin İdsi",
+    "no" : "Red Emojinin İdsi"
+}
