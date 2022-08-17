@@ -1,12 +1,12 @@
   {
-    "sahip" : sahipid
+    "sahip" : "sahipid",
     "prefix" : "prefix",
     "footer" : "Rixénd 💜",
 
     "tag" : "Tagınız",
     "sembol" : "İsim Yaşın Arasına Gelicek Sembol",
     
-    "bansorumlusu" : Ban Hammer Rol İd
+    "bansorumlusu" : "Ban Hammer Rol İd",
     "banlog" : "Ban Log Kanal İd",
     
     "jailsorumlusu" : "Jail Hammer Rol İd",
