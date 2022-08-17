@@ -1,0 +1,30 @@
+{
+  "name": "Rixénd"
+  "version": "0.0.1",
+  "description": "Gelişmiş Public Authority Botu Rixénd",
+  "main": "Rixénd.js",
+  "scripts": {
+    "start": "node Rixénd.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/Rixend1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Rixénd"
+  ]
+}
