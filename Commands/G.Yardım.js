@@ -6,7 +6,7 @@ var prefix = ayarlar.prefix;
 
 exports.run = async(client, message, args) => {
   
-const rosses = new Discord.MessageEmbed()
+const rixénd = new Discord.MessageEmbed()
 .setFooter(ayarlar.footer)
 .setDescription(`
 > **\`${prefix}avatar -> .avatar @üye\`** 
@@ -29,7 +29,7 @@ const rosses = new Discord.MessageEmbed()
 > **\`${prefix}vip -> .vip @üye/id\`**
 > **\`${prefix}teyit -> .teyit @üye\`**
 `)
- message.channel.send(rosses)
+ message.channel.send(rixénd)
 .then(x => x.delete({timeout: 9000}))
 
 }
